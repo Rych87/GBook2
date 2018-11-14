@@ -1,4 +1,4 @@
-package rych.gbook;
+package rych.gbook2;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
